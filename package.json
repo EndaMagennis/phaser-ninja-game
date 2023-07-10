@@ -1,0 +1,23 @@
+{
+  "name": "phaser-ninja-game",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndaMagennis/phaser-ninja-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndaMagennis/phaser-ninja-game/issues"
+  },
+  "homepage": "https://github.com/EndaMagennis/phaser-ninja-game#readme",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "phaser": "^3.60.0"
+  }
+}
